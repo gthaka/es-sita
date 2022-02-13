@@ -5,4 +5,6 @@ let word4 = 'Forth';
 
 const sentence = `${word1} ${word2} ${word3} ${word4}`;
 
-console.log(sentence);
+// console.log(sentence);
+
+export {sentence};

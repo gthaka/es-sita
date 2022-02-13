@@ -6,6 +6,10 @@ const personalInfo = {
     county: 'Nakuru',
 };
 
-const {firstName,county} = personalInfo;
-console.
-log(`${firstName} ${county}`); // backticks template literals
+// const {firstName,county} = personalInfo;
+// let example = `${firstName}
+// ${county}`;
+// console.log(example); // backticks template literals
+// document.getElementById('id1').innerText=example;
+
+export {personalInfo}
